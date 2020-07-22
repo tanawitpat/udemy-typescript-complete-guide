@@ -10,3 +10,4 @@ Course URL: <https://www.udemy.com/course/typescript-the-complete-developers-gui
 | prod     | A guide to use class and interface effectively in Typescript. |
 | rrts     | A guide to use TypeScript with React and Redux.               |
 | server   | A guide to integrate Express and Typescript.                  |
+| web      | Build a web framework with TypeScript                         |
